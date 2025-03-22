@@ -1,0 +1,6 @@
+EXPORTS
+    calc_motors_oVshSGNqU23zrlCHdlbwF @1
+    get_attitude_addr_oVshSGNqU23zrlCHdlbwF @2
+    get_checksum_source_info @3
+    get_dll_checksum_oVshSGNqU23zrlCHdlbwF @4
+    get_motor_speeds_addr_oVshSGNqU23zrlCHdlbwF @5
